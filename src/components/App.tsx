@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import { TodoApp } from './TodoApp'
 import { ListaProductos } from './ListaProductos'
 import 'bootstrap/dist/css/bootstrap.min.css';
